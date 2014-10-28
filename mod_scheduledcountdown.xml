@@ -6,9 +6,9 @@
     <author>Black Brick Software LLC</author>
     <authorEmail>david@blackbricksoftware.com</authorEmail>
     <authorUrl>http://blackbricksoftware.com</authorUrl>
-    <copyright>Copyright © 2013-2013 Black Brick Software LLC. All rights reserved.</copyright>
+    <copyright>Copyright © 2013-2014 Black Brick Software LLC. All rights reserved.</copyright>
     <creationDate>9 July 2013</creationDate>
-    <description><![CDATA[<p>Page Heading for Joomla 3.1.x. Created by <a href="http://blackbricksoftware.com/" target="_blank">Black Brick Software LLC</a>.</p>]]></description>
+    <description><![CDATA[<p>Scheduled Countdown for Joomla 3.1.x. Created by <a href="http://blackbricksoftware.com/" target="_blank">Black Brick Software LLC</a>.</p><p>A schedule can be entered in similar to a cron tab and the module will count down to the recurring times.</p>]]></description>
 	<files>
 		<filename>CHANGELOG</filename>
 		<folder>elements</folder>
